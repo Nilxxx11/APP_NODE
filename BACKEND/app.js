@@ -12,7 +12,7 @@ app.get('/',(req,res)=>{
   res.render('index', {namePage:'INICIO'});
 });
 app.get('/login',(req,res)=>{
-  res.render('login',{namePage:'LOGIN'});
+  res.render('login',{namePage:'INGRESAR'});
 });
 //________________________________
 
