@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "start": "node BACKEND/app.js",
-   "dev":"npx nodemon BACKEND/app.js"
+   "start": "node BACKEND/app.js"
   },
   "keywords": [],
   "author": "",
